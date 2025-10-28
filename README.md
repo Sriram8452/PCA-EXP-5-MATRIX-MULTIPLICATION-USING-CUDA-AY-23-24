@@ -223,4 +223,4 @@ int main()
 
 ## RESULT:
 
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took time 0.000167 seconds and Host took time is 0.000153 seconds.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took time 0.000167 seconds.
